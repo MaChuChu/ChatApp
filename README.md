@@ -1,3 +1,3 @@
 xampp
-localhost/phpmyadmin
-localhost/chatapp
+  localhost/phpmyadmin
+  localhost/chatapp
